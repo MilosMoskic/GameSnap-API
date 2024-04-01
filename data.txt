@@ -1,0 +1,24 @@
+DATA FOR INSERTING
+
+{
+    "title": "LoL oputplay",
+    "content": "Look at this play!",
+    "category": "League of Legends"
+}
+{
+    "title": "Minecraft build",
+    "content": "Tips for Minecraft building",
+    "category": "Minecraft"
+}
+{
+    "title": "GOAT OF TETRIS",
+    "content": "Tetris world record"
+}
+
+FOR UPDATING
+{
+    "title": "Funny csgo moments",
+    "content": "Serbian Niko",
+    "category": "CS2"
+}
+
